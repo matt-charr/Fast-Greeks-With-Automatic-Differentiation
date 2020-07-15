@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Abstract}{}% 1
+\BOOKMARK [1][-]{section.2}{Introduction}{}% 2
+\BOOKMARK [1][-]{section.3}{Pathwise Differentiation Method}{}% 3
+\BOOKMARK [1][-]{section.4}{Automatic Differentiation}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Theory}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Tangent Mode}{section.4}% 6
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Tangent unimode}{subsection.4.2}% 7
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Tangent multimode}{subsection.4.2}% 8
+\BOOKMARK [2][-]{subsection.4.3}{Adjoint Mode}{section.4}% 9
+\BOOKMARK [1][-]{section.5}{Implementation strategies}{}% 10
+\BOOKMARK [2][-]{subsection.5.1}{Tangent Mode Implementation - operator overloading}{section.5}% 11
+\BOOKMARK [2][-]{subsection.5.2}{Adjoint Mode implementation - tape based implementation}{section.5}% 12
+\BOOKMARK [1][-]{section.6}{Application}{}% 13
+\BOOKMARK [2][-]{subsection.6.1}{Basket Option}{section.6}% 14
+\BOOKMARK [2][-]{subsection.6.2}{Best Of Asian Option}{section.6}% 15
+\BOOKMARK [1][-]{section.7}{Correlation greeks}{}% 16
+\BOOKMARK [1][-]{section.8}{Conclusion}{}% 17

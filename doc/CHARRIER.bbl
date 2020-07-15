@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{21}
+Luca Capriotti.
+\newblock Fast greeks by algorithmic differentiation.
+\newblock {\em The Journal of Computational Finance}, Volume 14, 2011.
+
+\bibitem{22}
+Luca Capriotti and Mike Giles.
+\newblock Fast correlation greeks by adjoint algorithmic differentiation.
+\newblock 2018.
+
+\end{thebibliography}
